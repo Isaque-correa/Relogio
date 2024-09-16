@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+}
+
+.container_horario {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.container_horario h1 {
+  color: white;
+}
+.container_horario .wrap_horario {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  border-radius: 20px;
+  padding: 0px 0px 50px 0px;
+}
+.container_horario .wrap_horario .img_horario {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container_horario .wrap_horario .img_horario img {
+  border-radius: 100%;
+  width: 100%;
+  max-width: 30%;
+}/*# sourceMappingURL=index.css.map */
