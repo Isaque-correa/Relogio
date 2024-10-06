@@ -14,3 +14,5 @@ if (hora_hoje < 12){
     agora.innerHTML= `<p>Agora são ${hora_hoje} Horas.</p>`
     img_agora.innerHTML = `<img src ="./img/estradanortuna.png">`
 }
+
+
